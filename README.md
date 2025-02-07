@@ -2,3 +2,4 @@
 Readme Activity
 Question: 1. 
 ## Identify the different tags used in cozycup-boilerplate.
+## Structural Tags
