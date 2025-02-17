@@ -18,3 +18,4 @@ Question: 1.
 - `<li>` : Represents an individual list item (for menu options)
 - `<a>` : Establishes hyperlinks
 ## Content Sections
+- `<section>` : Organizes different sections of the webpage
