@@ -24,3 +24,5 @@ Question: 1.
 - `<p>` : Structures paragraphs of text
 - `<a>` (inside hero section) : Functions as a call-to-action button
 - ## Footer
+- `<footer>` : Marks the footer section
+- `<p>` : Contains copyright details
