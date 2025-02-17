@@ -17,3 +17,4 @@ Question: 1.
 - `<ul>` : Creates an unordered list (for navigation links)
 - `<li>` : Represents an individual list item (for menu options)
 - `<a>` : Establishes hyperlinks
+## Content Sections
