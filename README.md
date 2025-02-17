@@ -23,3 +23,4 @@ Question: 1.
 - `<h2>` : Displays secondary headings
 - `<p>` : Structures paragraphs of text
 - `<a>` (inside hero section) : Functions as a call-to-action button
+- ## Footer
