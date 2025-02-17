@@ -6,3 +6,7 @@ Question: 1.
 - `<html>` : Serves as the root of the document
 - `<head>` : Houses meta information and external links
 - `<body>` : Encloses the webpage content
+## Metadata & Links
+- `<meta>` : Specifies metadata (character encoding, viewport settings)
+- `<title>` : Defines the webpage title
+- `<link>` : Connects to an external CSS file
