@@ -26,3 +26,4 @@ Question: 1.
 - ## Footer
 - `<footer>` : Marks the footer section
 - `<p>` : Contains copyright details
+# click this link to go to the second question <https://github.com/olpos/olpos-week04-html-answers/blob/main/html_intro_answers.html>
