@@ -11,3 +11,9 @@ Question: 1.
 - `<title>` : Defines the webpage title
 - `<link>` : Connects to an external CSS file
 ## Header & Navigation
+- `<header>` : Marks the header section
+- `<nav>` : Contains navigation links
+- `<div>` : Acts as a container element (used for the logo)
+- `<ul>` : Creates an unordered list (for navigation links)
+- `<li>` : Represents an individual list item (for menu options)
+- `<a>` : Establishes hyperlinks
